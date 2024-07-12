@@ -1,0 +1,1 @@
+{"carros":[{"modelo":"Civic","cor":"Prata","preco":"250.000","placa":"ABC-1234","tipoCombustivel":"Gasolina","aceleracao":"10","quilometragem":"10000","velocidadeMaxima":"210"},{"modelo":"Civic","cor":"vermelho","marcas":"Fiat","preco":"55555","placa":"GHI-9012","tipoCombustivel":"Diesel","aceleracao":"10","quilometragem":"5555","velocidadeMaxima":"555"}]}

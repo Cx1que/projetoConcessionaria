@@ -1,0 +1,7 @@
+.form-container, body{
+    height: 100vh;
+    overflow-y: auto;
+    padding: 1px;
+    border: 1px solid #ddd;
+
+}

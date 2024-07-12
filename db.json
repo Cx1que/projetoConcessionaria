@@ -1,0 +1,18 @@
+{
+  "carros": [
+    {
+      "id": "8e4c",
+      "modelo": "Civic",
+      "cor": "vermelho",
+      "marcas": "Honda",
+      "preco": "200.00"
+    },
+    {
+      "id": "bd7c",
+      "modelo": "uno",
+      "cor": "Cinza",
+      "marcas": "Honda",
+      "preco": "50000"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+html, body {
+    overflow: hidden;
+}
+/* .border{
+
+    border-radius: 50px;
+} */
+
+form.user .form-control-user, 
+.seletor-radius{
+    border-radius: .50rem;
+}
+
+.custom-select {
+    height: calc(1.5em + .75rem + 13px);
+}
